@@ -1,0 +1,5 @@
+runtime: java11
+instance_class: F4
+network:
+  forwarded_ports:
+    - 8888/tcp
